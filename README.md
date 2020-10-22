@@ -1,1 +1,2 @@
-# Houses my python data science professional certificate files
+# IBM Data Science Professional Certificate Course
+Files from Coursera certifcate courses..
